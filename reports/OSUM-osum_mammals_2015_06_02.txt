@@ -1,0 +1,120 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 55
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 1
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-20 ; Times: 2
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-29 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin NOT "North Dakota" NOT Wyoming NOT "New Hampshire" NOT Maine NOT Vermont NOT Washington NOT Iowa)" ; Times: 2
+	Query: "lagothrix lagotricha mappable:1" ; Times: 2
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Cryptoprocta" ; Times: 1
+	Query: "Bison bison "Bison bison" type:specimen specificepithet:Bison genus:Bison (Mandible) AND (NOT priscus)" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin)" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan)" ; Times: 1
+	Query: "picklesimer" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin NOT "North Dakota" NOT Wyoming)" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin NOT "North Dakota" NOT Wyoming NOT "New Hampshire" NOT Maine NOT Vermont NOT Pennsylvania)" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin NOT "North Dakota" NOT Wyoming NOT "New Hampshire" NOT Maine NOT Vermont NOT Washington )" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 976 download events in this period)
+Total number of records downloaded: 1368 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 946
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 5
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 24
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 5
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-12 ; Times: 2
+	Date: 2015-05-13 ; Times: 2
+	Date: 2015-05-18 ; Times: 3
+	Date: 2015-05-19 ; Times: 2
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-21 ; Times: 4
+	Date: 2015-05-22 ; Times: 7
+	Date: 2015-05-26 ; Times: 3
+	Date: 2015-05-27 ; Times: 3
+	Date: 2015-05-29 ; Times: 2
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""Lontra canadensis"" ; Times: 1
+	Query: "microtus californicus (skin)" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Erethizontidae" ; Times: 1
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "Neotoma albigula" ; Times: 1
+	Query: ""lynx rufus"" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "Canis lupus lupus" ; Times: 1
+	Query: "Peromyscus melanotis" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Peromyscus fraterculus" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "stateprovince:"Nevada" country:"United States" class:Mammalia" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia" ; Times: 1
+	Query: "Tamias minimus stateprovince:"Colorado" distance(location,geopoint(39.774769485295465,-105.46875))<82878" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin NOT "North Dakota" NOT Wyoming NOT "New Hampshire" NOT Maine NOT Vermont NOT Washington NOT Iowa)" ; Times: 1
+	Query: "peromyscus pectoralis" ; Times: 2
+	Query: "Ctenomyidae" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Ochotona princeps mappable:1" ; Times: 1
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Chinchillidae" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 13
+Total number of records retrieved from searches: 55
+Number of download events that retrieved data from the resource: 37
+Total number of records downloaded: 1368
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 13
+Total number of records retrieved from searches: 55
+Number of download events that retrieved data from the resource: 37
+Total number of records downloaded: 1368
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
