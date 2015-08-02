@@ -1,0 +1,114 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 240
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 6
+	Date: 2015-07-10 ; Times: 2
+	Date: 2015-07-12 ; Times: 8
+	Date: 2015-07-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "OSUM (J. Hines)" ; Times: 1
+	Query: "blarina 1930" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "mustela nivalis distance(location,geopoint(36.87962060502676,-84.55078125))<357522" ; Times: 3
+	Query: "mustela nivalis distance(location,geopoint(37.78808138412046,-84.287109375))<258467" ; Times: 1
+	Query: "Tamias quadrivittatus utah" ; Times: 2
+	Query: "mustela nivalis distance(location,geopoint(37.78808138412046,-84.287109375))<231417" ; Times: 1
+	Query: "blarina 20536" ; Times: 2
+	Query: "eutamias minimus" ; Times: 1
+	Query: "mustela rixosa" ; Times: 1
+	Query: "mustela nivalis distance(location,geopoint(36.87962060502676,-84.55078125))<199129" ; Times: 1
+	Query: "Rio Paca" ; Times: 1
+	Query: "Eupleridae" ; Times: 1
+	Query: "OSUM recordedby:Hines (J. Hines)" ; Times: 1
+	Query: "mustela nivalis distance(location,geopoint(37.78808138412046,-84.287109375))<337669" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1084 download events in this period)
+Total number of records downloaded: 1235 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1006
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 14
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 6
+	Date: 2015-07-08 ; Times: 4
+	Date: 2015-07-13 ; Times: 5
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-22 ; Times: 1
+	Date: 2015-07-24 ; Times: 4
+	Date: 2015-07-26 ; Times: 2
+	Date: 2015-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "myotis lucifugus country:"United States"" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "Arkansas" ; Times: 2
+	Query: "country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "Didelphis marsupialis country:"Panama"" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "mammalia mexico" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "tamias minimus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "("myodes gapperi" OR "clethrionomys gapperi") mappable:1" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 43
+Total number of records retrieved from searches: 310
+Number of download events that retrieved data from the resource: 88
+Total number of records downloaded: 3571
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 43
+Total number of records retrieved from searches: 310
+Number of download events that retrieved data from the resource: 88
+Total number of records downloaded: 3571
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
