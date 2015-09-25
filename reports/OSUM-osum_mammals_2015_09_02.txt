@@ -1,0 +1,159 @@
+Report for Institution Code Ohio State University - Mammal Division, Columbus, OH (OSUM), Resource Mammals
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 87
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 3
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-03 ; Times: 3
+	Date: 2015-08-05 ; Times: 1
+	Date: 2015-08-10 ; Times: 1
+	Date: 2015-08-12 ; Times: 2
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-14 ; Times: 1
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 2
+	Date: 2015-08-28 ; Times: 2
+	Date: 2015-08-30 ; Times: 2
+	Date: 2015-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cavia aperea" ; Times: 1
+	Query: "Bat Ohio State University" ; Times: 1
+	Query: "catalognumber: 4725" ; Times: 1
+	Query: ""lagothrix lagotricha" mappable:1" ; Times: 1
+	Query: "catalognumber:122" ; Times: 2
+	Query: "synaptomys cooperi new york" ; Times: 1
+	Query: "county:"Milwaukee" stateprovince:"wisconsin"" ; Times: 1
+	Query: "genus:Chinchilla" ; Times: 1
+	Query: "lagothrix lagotricha" ; Times: 1
+	Query: ""Lagothrix lagotricha" mappable:1" ; Times: 1
+	Query: "Bassaricyon pauli" ; Times: 1
+	Query: "202630 class:mammalia" ; Times: 1
+	Query: "specificepithet:aperea genus:Cavia" ; Times: 2
+	Query: "synaptomys cooperi new york ohio" ; Times: 1
+	Query: "sigmodon santa cruz county arizona" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 1138 download events in this period)
+Total number of records downloaded: 1373 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1047
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Chile ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-05 ; Times: 2
+	Date: 2015-08-06 ; Times: 3
+	Date: 2015-08-14 ; Times: 2
+	Date: 2015-08-17 ; Times: 8
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 4
+	Date: 2015-08-21 ; Times: 3
+	Date: 2015-08-24 ; Times: 8
+	Date: 2015-08-25 ; Times: 24
+	Date: 2015-08-26 ; Times: 4
+	Date: 2015-08-30 ; Times: 1
+	Date: 2015-08-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 4
+	Query: "Microtus miurus" ; Times: 1
+	Query: "type:specimen stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: ""Cuniculus paca" mappable:1" ; Times: 1
+	Query: "stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "carnivora country:"Mexico" mappable:1" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "didelphidae" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "Cebidae" ; Times: 2
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: ""Potos flavus" mappable:1" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: ""Carollia perspicillata" mappable:1" ; Times: 3
+	Query: "Caviidae" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 3
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: ""Lagothrix lagotricha" mappable:1" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: ""Philander opossum" mappable:1" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "didelphis" ; Times: 1
+	Query: ""Lasiurus cinereus" mappable:1" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "specificepithet:floridana genus:neotoma" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: ""Didelphis marsupialis" mappable:1" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Sorex arcticus" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 1
+	Query: ""Pecari tajacu" mappable:1" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Sciurus vulgaris" ; Times: 1
+	Query: ""Odocoileus virginianus" mappable:1" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Mustela nivalis" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: ""Desmodus rotundus" mappable:1" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "Atelidae" ; Times: 2
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 17
+Total number of records retrieved from searches: 87
+Number of download events that retrieved data from the resource: 68
+Total number of records downloaded: 1373
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 17
+Total number of records retrieved from searches: 87
+Number of download events that retrieved data from the resource: 68
+Total number of records downloaded: 1373
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
