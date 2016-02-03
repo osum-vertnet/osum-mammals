@@ -1,0 +1,93 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 9
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "class:Mammalia sylvilagus transitionalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 823 download events in this period)
+Total number of records downloaded: 749
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Unknown ; Times: 5
+	Country: Italy ; Times: 2
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-16 ; Times: 6
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-03 ; Times: 2
+	Date: 2015-10-17 ; Times: 2
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-29 ; Times: 4
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-30 ; Times: 9
+	Date: 2015-10-31 ; Times: 3
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-26 ; Times: 3
+	Date: 2015-10-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "type:specimen (Lepus townsendii) mappable:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+	Query: "Lasiurus borealis distance(location,geopoint(41.04124542678115,-96.6972666978836))&lt;335698" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "lynx canadensis mappable:1" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "philander opossum" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "sciurus vulgaris" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+
+
+End of report.
