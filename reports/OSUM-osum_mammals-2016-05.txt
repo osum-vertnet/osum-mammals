@@ -1,0 +1,61 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 289
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-27 ; Times: 4
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Tamias institutioncode:OSUM" ; Times: 3
+	Query: "skin tachyglossidae type:specimen" ; Times: 1
+	Query: "206986" ; Times: 1
+	Query: "205638" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias institutioncode:OSUM" ; Times: 1
+	Query: "sphiggurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 327 download events in this period)
+Total number of records downloaded: 2068
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+
+
+End of report.
