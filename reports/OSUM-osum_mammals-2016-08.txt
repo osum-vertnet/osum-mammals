@@ -1,0 +1,131 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 544
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Unknown ; Times: 4
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 15
+	Date: 2016-08-29 ; Times: 4
+	Date: 2016-08-15 ; Times: 6
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-25 ; Times: 4
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-30 ; Times: 11
+	Date: 2016-08-22 ; Times: 6
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;vermont&#34;" ; Times: 1
+	Query: "genus:napaeozapus stateprovince:&#34;vermont&#34; institutioncode:OSUM" ; Times: 2
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis order:chiroptera stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "genus:Marmota institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:cubanus genus:Solenodon" ; Times: 10
+	Query: "genus:napaeozapus stateprovince:&#34;new hampshire&#34;" ; Times: 1
+	Query: "specificepithet:Pinetorum genus:Microtus institutioncode:OSUM" ; Times: 2
+	Query: "specificepithet:chrysopygus genus:Rhynchocyon" ; Times: 13
+	Query: "class:mammalia locality:new hampshire" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Lagothrix lagotricha 1" ; Times: 1
+	Query: "genus:Tamiasciurus institutioncode:OSUM" ; Times: 2
+	Query: "genus:napaeozapus stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "genus:napaeozapus stateprovince:&#34;maine&#34; institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;vermont&#34; institutioncode:OSUM" ; Times: 2
+	Query: "specificepithet:Magister genus:Neotoma" ; Times: 1
+	Query: "Anatinus institutioncode:OSUM" ; Times: 3
+	Query: "glaucomys volans massachusetts" ; Times: 1
+	Query: "order:chiroptera stateprovince:&#34;maine&#34;" ; Times: 2
+	Query: "genus:napaeozapus stateprovince:&#34;vermont&#34;" ; Times: 1
+	Query: "genus:Sciurus institutioncode:OSUM" ; Times: 1
+	Query: "genus:napaeozapus stateprovince:&#34;new hampshire&#34; institutioncode:OSUM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 924 download events in this period)
+Total number of records downloaded: 1532
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 12
+	Country: France ; Times: 4
+	Country: United States ; Times: 36
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 2
+	Date: 2016-08-15 ; Times: 4
+	Date: 2016-08-16 ; Times: 3
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-31 ; Times: 6
+	Date: 2016-08-29 ; Times: 3
+	Date: 2016-08-28 ; Times: 3
+	Date: 2016-08-25 ; Times: 13
+	Date: 2016-08-24 ; Times: 4
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 2
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 3
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Mecca" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus distance(location,geopoint(40.27952566881294,-114.76318359375))&lt;266668" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "order:Lagomorpha haslength:1" ; Times: 4
+	Query: "mammalia Cryptotis" ; Times: 2
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "microtus miurus" ; Times: 2
+	Query: "order:Rodentia distance(location,geopoint(39.94343646197423,-115.15869140625))&lt;247312.59442489027" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "Peromyscus fraterculus" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "myotis grisescens" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "microtus montanus" ; Times: 1
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Coyote (Canis)" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Nevada&#34;" ; Times: 1
+
+
+End of report.
