@@ -1,0 +1,105 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 82
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-31 ; Times: 4
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-06 ; Times: 3
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:sigmodon stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 4
+	Query: "vntype:specimen specificepithet:fumeus genus:sorex institutioncode:OSUM" ; Times: 1
+	Query: "29809" ; Times: 1
+	Query: "Rhododendron mappable:1" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "206666" ; Times: 1
+	Query: "19403" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 674 download events in this period)
+Total number of records downloaded: 1075
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: United Kingdom ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-27 ; Times: 7
+	Date: 2017-12-26 ; Times: 15
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-14 ; Times: 5
+	Date: 2017-12-15 ; Times: 3
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-18 ; Times: 2
+	Date: 2017-12-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "neotamias minimus mappable:1" ; Times: 1
+	Query: "Spermophilus richardsonii mappable:1" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Martes pennanti mappable:1" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 1
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "sorex monticolus" ; Times: 1
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "Spermophilus lateralis mappable:1" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "Spermophilus franklinii mappable:1" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "microtus chrotorrhinus mappable:1" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "Lemmus trimucronatus mappable:1" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Spermophilus tridecemlineatus mappable:1" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+
+
+End of report.
