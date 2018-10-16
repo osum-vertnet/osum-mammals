@@ -1,0 +1,71 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 169
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Italy ; Times: 4
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-17 ; Times: 4
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-27 ; Times: 2
+	Date: 2018-05-24 ; Times: 2
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(41.6895803924308,-83.3180392822581))&lt;17827" ; Times: 1
+	Query: "specificepithet:auratus genus:Mesocricetus mappable:1" ; Times: 1
+	Query: "specificepithet:hoyi genus:sorex institutioncode:OSUM basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:carolinensis genus:Sciurus institutioncode:OSUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "specificepithet:transitionalis genus:Sylvilagus mappable:1" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:myodes stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "203543 mammal" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "specificepithet:sibiricus genus:Tamias mappable:1" ; Times: 1
+	Query: "Didelphis virginiana institutioncode:OSUM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1178 download events in this period)
+Total number of records downloaded: 80
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+
+
+End of report.
