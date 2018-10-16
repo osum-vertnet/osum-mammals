@@ -1,0 +1,125 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 111
+Number of records retrieved in searches: 319
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 92
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 11
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 16
+	Date: 2018-03-20 ; Times: 9
+	Date: 2018-03-01 ; Times: 4
+	Date: 2018-03-02 ; Times: 10
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-05 ; Times: 11
+	Date: 2018-03-28 ; Times: 2
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-26 ; Times: 20
+	Date: 2018-03-27 ; Times: 22
+	Date: 2018-03-25 ; Times: 4
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-09 ; Times: 3
+	Date: 2018-03-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:flavus genus:Potos" ; Times: 1
+	Query: "specificepithet:californicus genus:microtus county:&#34;los angeles&#34;" ; Times: 1
+	Query: "genus:Giraffa  specificepithet:camelopardalis " ; Times: 3
+	Query: "genus:Lagothrix specificepithet:lagotricha" ; Times: 7
+	Query: "26861" ; Times: 1
+	Query: "genus:Mesocricetus specificepithet:auratus" ; Times: 5
+	Query: "specificepithet:minimus genus:Chironectes" ; Times: 1
+	Query: "specificepithet:pecari genus:Tayassu" ; Times: 1
+	Query: "specificepithet:mexicana genus:Marmosa" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:narica genus:Nasua" ; Times: 1
+	Query: "genus:Potos specificepithet:flavus" ; Times: 2
+	Query: "vntype:specimen family:Vespertilionidae stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "genus:Myotis specificepithet:sodalis" ; Times: 2
+	Query: "specificepithet:pauli genus:Bassaricyon" ; Times: 1
+	Query: "genus:Cuniculus specificepithet:paca" ; Times: 5
+	Query: "Panthera tigris " ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 2
+	Query: "specificepithet:aperea genus:Cavia" ; Times: 1
+	Query: "genus:Perognathus year &gt;= 1946 year &lt;= 1946" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:aquaticus" ; Times: 2
+	Query: "spilogale Iowa" ; Times: 3
+	Query: "genus:Ateles specificepithet:geoffroyi" ; Times: 8
+	Query: "genus:Nasua specificepithet:narica" ; Times: 6
+	Query: "genus:Chironectes specificepithet:minimus" ; Times: 5
+	Query: "genus:Chinchilla order:Rodentia class:Mammalia" ; Times: 2
+	Query: "genus:Sciurus specificepithet:granatensis" ; Times: 2
+	Query: "panthera tigris tigris" ; Times: 1
+	Query: "genus:Myotis specificepithet:keenii" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:humulis" ; Times: 2
+	Query: "specificepithet:derbianus genus:Caluromys" ; Times: 1
+	Query: "specificepithet:alfari genus:Microsciurus" ; Times: 1
+	Query: "genus:Marmosa specificepithet:mexicana" ; Times: 5
+	Query: "genus:Caluromys specificepithet:derbianus" ; Times: 5
+	Query: "specificepithet:granatensis genus:Sciurus" ; Times: 1
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 5
+	Query: "specificepithet:tajacu genus:Pecari" ; Times: 1
+	Query: "McAllen" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis institutioncode:OSUM" ; Times: 1
+	Query: "genus:Atelerix" ; Times: 3
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "genus:Oryctolagus specificepithet:cuniculus" ; Times: 3
+	Query: "family:Vespertilionidae stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "genus:Corynorhinus specificepithet:rafinesquii" ; Times: 6
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1284 download events in this period)
+Total number of records downloaded: 40
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Poland ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-10 ; Times: 2
+	Date: 2018-03-26 ; Times: 4
+	Date: 2018-03-27 ; Times: 1
+	Date: 2018-03-24 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 3
+	Query: "vntype:specimen family:Vespertilionidae stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:lutris genus:Enhydra basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Otariidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sorex fumeus hasmass:1" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia class:Mammalia" ; Times: 1
+	Query: "genus:Reithrodontomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia Didelphis marsupialis" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Neotoma micropus" ; Times: 2
+	Query: "sorex hoyi hasmass:1" ; Times: 1
+	Query: "family:Vespertilionidae stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
