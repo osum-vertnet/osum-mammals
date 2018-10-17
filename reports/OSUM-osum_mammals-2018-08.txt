@@ -1,0 +1,72 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 518
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-31 ; Times: 5
+	Date: 2018-08-25 ; Times: 4
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "185763" ; Times: 1
+	Query: "country:&#34;Argentina&#34; institutioncode:OSUM" ; Times: 2
+	Query: "family:Lemuridae institutioncode:OSUM" ; Times: 2
+	Query: "specificepithet:maritimus genus:ursus" ; Times: 1
+	Query: "Microtus institutioncode:OSUM" ; Times: 1
+	Query: "college station distance(location,geopoint(31.73827307406639,-99.48570042440912))&lt;100000" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5" ; Times: 3
+	Query: "Microtus vntype:specimen institutioncode:OSUM" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1416 download events in this period)
+Total number of records downloaded: 981
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-23 ; Times: 3
+	Date: 2018-08-20 ; Times: 4
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(33.15262612841528,-78.30922344792259))&lt;467941.1417995581" ; Times: 2
+	Query: "country:&#34;Brazil&#34; institutioncode:OSUM" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "Mus musculus domesticus vntype:specimen genus:Mus" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(44.946440779477925,-83.84633282292259))&lt;467941.1417995581" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "lynx rufus" ; Times: 1
+	Query: "Microtus vntype:specimen institutioncode:OSUM" ; Times: 1
+
+
+End of report.
