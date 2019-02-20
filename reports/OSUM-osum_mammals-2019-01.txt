@@ -1,0 +1,121 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 537
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: United Kingdom ; Times: 1
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-29 ; Times: 5
+	Date: 2019-01-31 ; Times: 3
+	Date: 2019-01-24 ; Times: 4
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-30 ; Times: 1
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-26 ; Times: 2
+	Date: 2019-01-21 ; Times: 2
+	Date: 2019-01-25 ; Times: 5
+	Date: 2019-01-16 ; Times: 4
+	Date: 2019-01-23 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:amoenus genus:tamias institutioncode:OSUM" ; Times: 1
+	Query: "sorex hoyi new hampshire" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 pilosa" ; Times: 1
+	Query: "specificepithet:parva genus:cryptotis institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:umbrinus genus:tamias institutioncode:OSUM" ; Times: 2
+	Query: "tree shrew" ; Times: 2
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5" ; Times: 2
+	Query: "order:Chiroptera county:&#34;Greene&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "(Erinaceidae) institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias institutioncode:OSUM" ; Times: 1
+	Query: "&#34;Panthera tigris&#34;" ; Times: 1
+	Query: "Panthera tigris altaica" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:tamias institutioncode:OSUM" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "stateprovince:&#34;ohio&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 2
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 monotremata" ; Times: 2
+	Query: "201946" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:sibiricus genus:tamias" ; Times: 1
+	Query: "specificepithet:sibiricus genus:tamias institutioncode:OSUM" ; Times: 1
+	Query: "myotis leibii stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "elephant shrew" ; Times: 4
+	Query: "specificepithet:fumeus genus:sorex institutioncode:OSUM" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "stateprovince:&#34;Ohio&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 2
+	Query: "specificepithet:hoyi genus:sorex institutioncode:OSUM" ; Times: 1
+	Query: "185763" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:OSUM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 962 download events in this period)
+Total number of records downloaded: 103
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 10
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-28 ; Times: 5
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "specificepithet:lateralis genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "stateprovince:&#34;ohio&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "flying squirrel" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+
+
+End of report.
