@@ -1,0 +1,87 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 330
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 19
+	Country: Colombia ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 2
+	Date: 2019-02-13 ; Times: 11
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-21 ; Times: 3
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-19 ; Times: 6
+	Date: 2019-02-18 ; Times: 2
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 nelson" ; Times: 1
+	Query: "202429" ; Times: 1
+	Query: "specificepithet:flavus genus:Potos country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 13
+	Query: "bassaricyon" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 pilosa" ; Times: 2
+	Query: "poliocitellus" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 world" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:OSUM" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 artiodactyla" ; Times: 1
+	Query: "specificepithet:chrysopygus genus:Rhynchocyon" ; Times: 1
+	Query: "panthera tigris." ; Times: 2
+	Query: "Lagothrix lagotricha" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1227 download events in this period)
+Total number of records downloaded: 74
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 3
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-14 ; Times: 3
+	Date: 2019-02-22 ; Times: 2
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "Atelerix albiventris" ; Times: 2
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 3
+	Query: "poliocitellus" ; Times: 1
+	Query: "specificepithet:flavicollis genus:Apodemus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:OSUM" ; Times: 1
+	Query: "genus:Trichechus class:Mammalia" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+
+
+End of report.
