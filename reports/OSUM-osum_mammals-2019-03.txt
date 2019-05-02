@@ -1,0 +1,91 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 317
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Denmark ; Times: 13
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-08 ; Times: 5
+	Date: 2019-03-18 ; Times: 7
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-13 ; Times: 5
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "neovison vison" ; Times: 4
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "Cuniculus paca mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;kentucky&#34; specificepithet:maniculatus genus:Peromyscus year &gt;= 1900 year &lt;= 2019" ; Times: 1
+	Query: "panthera tigris mappable:1" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 bovidae" ; Times: 1
+	Query: "Panthera tigris mappable:1" ; Times: 12
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "Coendou mappable:1" ; Times: 1
+	Query: "specificepithet:ochrogaster genus:Microtus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5" ; Times: 2
+	Query: "Reithrodontomys fulvescens" ; Times: 2
+	Query: "202429" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1281 download events in this period)
+Total number of records downloaded: 156
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-08 ; Times: 7
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-04 ; Times: 3
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tupaia glis" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "stateprovince:&#34;kentucky&#34; specificepithet:maniculatus genus:Peromyscus year &gt;= 1900 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "neotamias minimus" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "panda" ; Times: 2
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "genus:neovison" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "dendrolagus" ; Times: 1
+
+
+End of report.
