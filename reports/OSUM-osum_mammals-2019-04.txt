@@ -1,0 +1,156 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 116
+Number of records retrieved in searches: 1699
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 27
+	Country: Denmark ; Times: 5
+	Country: United States ; Times: 82
+	Country: Thailand ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 10
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-13 ; Times: 18
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-16 ; Times: 2
+	Date: 2019-04-15 ; Times: 7
+	Date: 2019-04-14 ; Times: 17
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-23 ; Times: 9
+	Date: 2019-04-20 ; Times: 4
+	Date: 2019-04-21 ; Times: 7
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-24 ; Times: 19
+	Date: 2019-04-25 ; Times: 8
+	Date: 2019-04-03 ; Times: 4
+	Date: 2019-04-08 ; Times: 3
+	Date: 2019-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 giraffidae" ; Times: 2
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 procyonidae" ; Times: 2
+	Query: "Pecari tajacu mappable:1" ; Times: 3
+	Query: "specificepithet:tereticaudus genus:spermophilus institutioncode:OSUM" ; Times: 1
+	Query: "Potos flavus mappable:1" ; Times: 3
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 pilosa" ; Times: 4
+	Query: "specificepithet:parva genus:cryptotis institutioncode:OSUM" ; Times: 2
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 Erethizontidae" ; Times: 4
+	Query: "specificepithet:palustris genus:sorex institutioncode:OSUM" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 puma" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus institutioncode:OSUM" ; Times: 1
+	Query: "30150 class:Mammalia" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5" ; Times: 8
+	Query: "Myotis septentrionalis year &lt;= 1970" ; Times: 2
+	Query: "Cavia aperea mappable:1" ; Times: 4
+	Query: "catalognumber:4755 institutioncode:OSUM" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 sirenia" ; Times: 2
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 primates" ; Times: 4
+	Query: "30033 class:Mammalia" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "genus:lasiurus institutioncode:OSUM" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 erethizontidae" ; Times: 3
+	Query: "specificepithet:sabrinus genus:glaucomys institutioncode:OSUM" ; Times: 1
+	Query: "genus:Spilogale institutioncode:OSUM" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 Otariidae" ; Times: 2
+	Query: "catalognumber:175 institutioncode:OSUM" ; Times: 1
+	Query: "30274 mammalia" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 felidae" ; Times: 3
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 panthera" ; Times: 3
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 cingulata" ; Times: 1
+	Query: "202194" ; Times: 1
+	Query: "&#34;canis latrans&#34; vntype:specimen institutioncode:OSUM" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex institutioncode:OSUM" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 monotremata" ; Times: 7
+	Query: "specificepithet:audubonii genus:sylvilagus institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:5811 institutioncode:OSUM" ; Times: 1
+	Query: "Sphiggurus villosus mappable:1" ; Times: 3
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 scandentia" ; Times: 2
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 ursus" ; Times: 4
+	Query: "myotis leibii stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:fumeus genus:sorex institutioncode:OSUM" ; Times: 1
+	Query: "Panthera tigris mappable:1" ; Times: 5
+	Query: "genus:Mephitis institutioncode:OSUM" ; Times: 1
+	Query: "Chironectes minimus mappable:1" ; Times: 3
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "202429" ; Times: 1
+	Query: "family:Mephitidae collectioncode:Mammals institutioncode:OSUM" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 proboscidea" ; Times: 4
+	Query: "Myocastor coypus mappable:1" ; Times: 3
+	Query: "Cuniculus paca mappable:1" ; Times: 4
+	Query: "30030 class:Mammalia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1263 download events in this period)
+Total number of records downloaded: 604
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 3
+	Date: 2019-04-02 ; Times: 13
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-14 ; Times: 5
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-08 ; Times: 2
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Puma" ; Times: 1
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "Myotis volans" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "baiomys taylori" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Macroscelididae" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Macroscelidea" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Onychomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
