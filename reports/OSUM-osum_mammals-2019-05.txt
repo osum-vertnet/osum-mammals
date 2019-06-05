@@ -1,0 +1,77 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 200
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 6
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 4
+	Date: 2019-05-28 ; Times: 2
+	Date: 2019-05-18 ; Times: 1
+	Date: 2019-05-07 ; Times: 3
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-05 ; Times: 3
+	Date: 2019-05-03 ; Times: 3
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-16 ; Times: 2
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gene vntype:specimen genus:Peromyscus family:Cricetidae" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "specificepithet:hoyi genus:sorex institutioncode:OSUM" ; Times: 2
+	Query: "Cavia aperea mappable:1" ; Times: 1
+	Query: "Cuniculus paca mappable:1" ; Times: 2
+	Query: "neotoma magister institutioncode:OSUM" ; Times: 1
+	Query: "Panthera tigris mappable:1" ; Times: 1
+	Query: "202942" ; Times: 1
+	Query: "genus:canis mandible" ; Times: 1
+	Query: "genus: canis mandible" ; Times: 1
+	Query: "Sphiggurus villosus mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 3
+	Query: "specificepithet:parva genus:cryptotis institutioncode:OSUM" ; Times: 1
+	Query: "neotoma magister" ; Times: 1
+	Query: "Chironectes minimus mappable:1" ; Times: 1
+	Query: "oppossum" ; Times: 1
+	Query: "202492" ; Times: 1
+	Query: "Neotamias minimus" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 940 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:Female" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+
+
+End of report.
