@@ -1,0 +1,133 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 333
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 64
+	Country: Peru ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 1
+	Date: 2019-06-24 ; Times: 6
+	Date: 2019-06-14 ; Times: 2
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-11 ; Times: 22
+	Date: 2019-06-10 ; Times: 30
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-12 ; Times: 2
+	Date: 2019-06-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Condylura specificepithet:cristata" ; Times: 1
+	Query: "genus:Martes specificepithet:martes" ; Times: 1
+	Query: "genus:tamias class:mammalia institutioncode:OSUM" ; Times: 1
+	Query: "OSUM 2335" ; Times: 1
+	Query: "genus:Lagothrix specificepithet:lagotricha" ; Times: 2
+	Query: "meerkat" ; Times: 2
+	Query: "205751" ; Times: 1
+	Query: "genus:Mesocricetus specificepithet:auratus" ; Times: 1
+	Query: "genus:Ornithorhynchus specificepithet:anatinus" ; Times: 1
+	Query: "genus:Suricata specificepithet:suricatta" ; Times: 1
+	Query: "genus:Microtus specificepithet:chrotorrhinus" ; Times: 1
+	Query: "vntype:specimen order:Rodentia locality:Amazon" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:spermophilus class:mammalia institutioncode:OSUM" ; Times: 1
+	Query: "genus:Mustela specificepithet:putorius" ; Times: 1
+	Query: "genus:Bassariscus specificepithet:astutus" ; Times: 1
+	Query: "genus:Potos specificepithet:flavus" ; Times: 2
+	Query: "genus:Myotis specificepithet:sodalis" ; Times: 1
+	Query: "genus:Cuniculus specificepithet:paca" ; Times: 2
+	Query: "genus:Myocastor specificepithet:coypus" ; Times: 1
+	Query: "catalognumber:8961" ; Times: 3
+	Query: "genus:Sylvilagus specificepithet:aquaticus" ; Times: 2
+	Query: "genus:Ateles specificepithet:geoffroyi" ; Times: 2
+	Query: "genus:Nasua specificepithet:narica" ; Times: 2
+	Query: "genus:Corynorhinus specificepithet:rafinesquii" ; Times: 2
+	Query: "class:mammalia stateprovince:&#34;maine&#34; institutioncode:OSUM" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;new hampshire&#34; institutioncode:OSUM" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;vermont&#34; institutioncode:OSUM" ; Times: 1
+	Query: "genus:Chironectes specificepithet:minimus" ; Times: 2
+	Query: "genus:Sciurus specificepithet:granatensis" ; Times: 1
+	Query: "genus:Sciurus specificepithet:vulgaris" ; Times: 1
+	Query: "genus:Philander specificepithet:opossum" ; Times: 2
+	Query: "genus:Myotis specificepithet:keenii" ; Times: 1
+	Query: "genus:Ursus specificepithet:maritimus" ; Times: 1
+	Query: "genus:Oryctolagus specificepithet:cuniculus" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:humulis" ; Times: 2
+	Query: "genus:Cavia specificepithet:porcellus" ; Times: 1
+	Query: "genus:Marmosa specificepithet:mexicana" ; Times: 1
+	Query: "genus:Caluromys specificepithet:derbianus" ; Times: 2
+	Query: "catalognumber:2335 institutioncode:OSUM" ; Times: 1
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+	Query: "Mesocricetus auratus" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "genus:Lepus specificepithet:townsendii" ; Times: 1
+	Query: "osum 2335" ; Times: 1
+	Query: "genus:spermophilus class:mammalia institutioncode:OSUM" ; Times: 1
+	Query: "20971" ; Times: 1
+	Query: "genus:Atelerix" ; Times: 1
+	Query: "genus:Tachyglossus specificepithet:aculeatus" ; Times: 1
+	Query: "genus:Nandinia specificepithet:binotata" ; Times: 1
+	Query: "genus:Lutra specificepithet:canadensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1182 download events in this period)
+Total number of records downloaded: 488
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: Brazil ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-22 ; Times: 2
+	Date: 2019-06-25 ; Times: 1
+	Date: 2019-06-08 ; Times: 2
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-06 ; Times: 9
+	Date: 2019-06-07 ; Times: 11
+	Date: 2019-06-04 ; Times: 13
+	Date: 2019-06-05 ; Times: 7
+	Date: 2019-06-03 ; Times: 3
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Cougar" ; Times: 1
+	Query: "Opossum" ; Times: 1
+	Query: "specificepithet:gapperi genus:Myodes" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "cougar" ; Times: 5
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Pika" ; Times: 4
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "Beavers" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "flying squirrel" ; Times: 3
+	Query: "mustela frenata" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "kangaroo rat" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "pika" ; Times: 13
+	Query: "beavers" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+
+
+End of report.
