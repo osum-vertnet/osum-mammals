@@ -1,0 +1,113 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 750
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Nepal ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 5
+	Date: 2019-07-21 ; Times: 2
+	Date: 2019-07-19 ; Times: 5
+	Date: 2019-07-27 ; Times: 7
+	Date: 2019-07-22 ; Times: 2
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-10 ; Times: 5
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-16 ; Times: 4
+	Date: 2019-07-31 ; Times: 2
+	Date: 2019-07-07 ; Times: 3
+	Date: 2019-07-04 ; Times: 4
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-14 ; Times: 2
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-15 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus domesticus mappable:1" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:harrisii" ; Times: 1
+	Query: "specificepithet:parva genus:cryptotis institutioncode:OSUM" ; Times: 4
+	Query: "genus:sorex stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5" ; Times: 1
+	Query: "Peterboro Peromyscus" ; Times: 1
+	Query: "genus:reithrodontomys class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:2718 institutioncode:OSUM" ; Times: 1
+	Query: "sus scrofa domesticus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 3
+	Query: "genus:Marmota specificepithet:monax" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:OSUM" ; Times: 2
+	Query: "catalognumber:243 institutioncode:OSUM" ; Times: 1
+	Query: "class:MAMMALIA locality:WESTFIELD" ; Times: 2
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "country:&#34;United States&#34; panthera tigris" ; Times: 1
+	Query: "Myotis sodalis mappable:1" ; Times: 2
+	Query: "Bos primigenius institutioncode:OSUM" ; Times: 2
+	Query: "Myotis septentrionalis mappable:1" ; Times: 2
+	Query: "specificepithet:cinereus genus:sorex institutioncode:OSUM" ; Times: 4
+	Query: "Poliocitellus franklinii mappable:1" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "genus:peromyscus class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:OSUM" ; Times: 1
+	Query: "sylvilagus transitionalis connecticut" ; Times: 1
+	Query: "genus:Sciurus specificepithet:vulgaris" ; Times: 1
+	Query: "genus:neotoma class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:OSUM" ; Times: 1
+	Query: "Microtus richardsoni institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;New Hampshire&#34;" ; Times: 2
+	Query: "genus:OCHROTOMYS county:&#34;LEWIS&#34; stateprovince:&#34;KENTUCKY&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:OSUM" ; Times: 2
+	Query: "Cavia aperea" ; Times: 1
+	Query: "catalognumber:1847 institutioncode:OSUM" ; Times: 1
+	Query: "genus:Corynorhinus specificepithet:rafinesquii" ; Times: 1
+	Query: "specificepithet:hoyi genus:sorex institutioncode:OSUM" ; Times: 1
+	Query: "genus:Atelerix" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "genus:microtus class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:OSUM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 985 download events in this period)
+Total number of records downloaded: 7244
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Peru ; Times: 5
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+
+
+End of report.
