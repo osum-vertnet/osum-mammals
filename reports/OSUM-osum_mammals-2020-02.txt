@@ -1,0 +1,134 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 902
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-04 ; Times: 3
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-01 ; Times: 7
+	Date: 2020-02-22 ; Times: 15
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "indiana bat" ; Times: 2
+	Query: "vntype:specimen order:Rodentia class:Mammalia institutioncode:OSUM" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 tachyglossidae" ; Times: 4
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 cetacea" ; Times: 4
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5" ; Times: 4
+	Query: "genus:Chironectes country:&#34;Panama&#34;" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 sirenia" ; Times: 3
+	Query: "&#34;Panthera tigris&#34;" ; Times: 3
+	Query: "Panthera tigris tigris" ; Times: 2
+	Query: "Canis familiaris AND (skull) institutioncode:OSUM" ; Times: 1
+	Query: "&#34;Panthera tigris altaica&#34;" ; Times: 2
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1941 year &lt;= 1950" ; Times: 1
+	Query: "neotoma magister" ; Times: 1
+	Query: "vntype:specimen class:Mammalia institutioncode:OSUM" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Canis familiaris institutioncode:OSUM" ; Times: 1
+	Query: "204122" ; Times: 1
+	Query: "&#34;Lama glama&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 3
+	Query: "vntype:specimen order:Carnivora class:Mammalia institutioncode:OSUM" ; Times: 1
+	Query: "skull vntype:specimen genus:odocoileus institutioncode:OSUM" ; Times: 1
+	Query: "20991" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1023 download events in this period)
+Total number of records downloaded: 2825
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Canada ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-01 ; Times: 1
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-27 ; Times: 7
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cavia" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "genus:cuniculus" ; Times: 2
+	Query: "zapus princeps" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "sciurus niger" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "&#34;Panthera tigris altaica&#34;" ; Times: 1
+	Query: "fontigenus specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1941 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1950" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "modestus specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "order:Chiroptera hassex:1 hasmass:1" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "vntype:specimen order:Carnivora class:Mammalia institutioncode:OSUM" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+
+
+End of report.
