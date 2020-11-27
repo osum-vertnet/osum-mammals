@@ -1,0 +1,102 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 1106
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 55
+	Country: Denmark ; Times: 33
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-21 ; Times: 3
+	Date: 2019-11-22 ; Times: 4
+	Date: 2019-11-23 ; Times: 2
+	Date: 2019-11-08 ; Times: 10
+	Date: 2019-11-09 ; Times: 10
+	Date: 2019-11-06 ; Times: 3
+	Date: 2019-11-07 ; Times: 21
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-16 ; Times: 12
+	Date: 2019-11-11 ; Times: 3
+	Date: 2019-11-03 ; Times: 10
+	Date: 2019-11-12 ; Times: 6
+	Date: 2019-11-15 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis sodalis 2015" ; Times: 2
+	Query: "Myotis sodalis 2016" ; Times: 4
+	Query: "Myotis sodalis 2013" ; Times: 4
+	Query: "Myotis septentrionalis 2016" ; Times: 4
+	Query: "Myotis septentrionalis 2015" ; Times: 3
+	Query: "Myotis septentrionalis 2013" ; Times: 4
+	Query: "Cuniculus paca" ; Times: 8
+	Query: "myotis septentrionalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Myotis sodalis 1976" ; Times: 4
+	Query: "Elephas maximus" ; Times: 4
+	Query: "specificepithet:cinereus genus:sorex stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "genus:glaucomys stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "205107" ; Times: 1
+	Query: "Lynx canadensis 2013" ; Times: 4
+	Query: "Nasua narica" ; Times: 4
+	Query: "Sciurus granatensis" ; Times: 2
+	Query: "Lynx canadensis 2016" ; Times: 4
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:teton stateprovince:&#34;wyoming&#34;" ; Times: 2
+	Query: "Myotis sodalis 1980" ; Times: 4
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "204408" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 3
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "specificepithet:cinereus genus:sorex institutioncode:OSUM" ; Times: 4
+	Query: "20532" ; Times: 1
+	Query: "203751" ; Times: 1
+	Query: "Myotis septentrionalis 1976" ; Times: 4
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 3
+	Query: "Oreamnos americanus" ; Times: 2
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "Microsciurus alfari" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1367 download events in this period)
+Total number of records downloaded: 668
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 3
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-15 ; Times: 3
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:rodentia county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "TAYASSU PECARI" ; Times: 2
+	Query: "myotis septentrionalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+
+
+End of report.
