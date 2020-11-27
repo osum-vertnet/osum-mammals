@@ -1,0 +1,135 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 190
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: United Kingdom ; Times: 37
+	Country: Canada ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 2
+	Date: 2020-04-07 ; Times: 15
+	Date: 2020-04-03 ; Times: 3
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 4
+	Date: 2020-04-06 ; Times: 3
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 13
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-29 ; Times: 3
+	Date: 2020-04-08 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Neotoma institutioncode:OSUM" ; Times: 1
+	Query: "26823" ; Times: 3
+	Query: "Nandinia binotata" ; Times: 5
+	Query: "catalognumber:107 institutioncode:OSUM" ; Times: 2
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Sciurus granatensis" ; Times: 3
+	Query: "Lagothrix lagotricha" ; Times: 4
+	Query: "specificepithet:rixosa genus:Mustela class:Mammalia" ; Times: 1
+	Query: "206916" ; Times: 1
+	Query: "genus:cryptotis stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus stateprovince:&#34;Oregon&#34; institutioncode:OSUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lepus californicus texianus county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Panthera tigris" ; Times: 7
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "maps 1058" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus stateprovince:&#34;California&#34; institutioncode:OSUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "recordedby:w. w. price" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 8
+	Query: "Oryctolagus cuniculus" ; Times: 7
+	Query: "county:&#34;lewis&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma institutioncode:OSUM" ; Times: 1
+	Query: "201024" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1171 download events in this period)
+Total number of records downloaded: 570
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+	Country: Canada ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 2
+	Country: Costa Rica ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 9
+	Date: 2020-04-23 ; Times: 6
+	Date: 2020-04-20 ; Times: 2
+	Date: 2020-04-21 ; Times: 4
+	Date: 2020-04-01 ; Times: 3
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-28 ; Times: 10
+	Date: 2020-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:princeps genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Parascalops" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "specificepithet:narica genus:Nasua" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus stateprovince:&#34;Oregon&#34; institutioncode:OSUM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "genus:cryptotis stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Microtus longicaudus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:gapperi genus:myodes stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 3
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen family:Macroscelididae" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "sciurus" ; Times: 1
+
+
+End of report.
