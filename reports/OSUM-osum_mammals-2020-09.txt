@@ -1,0 +1,144 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 1269
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: South Korea ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-15 ; Times: 5
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-17 ; Times: 5
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-13 ; Times: 9
+	Date: 2020-09-29 ; Times: 5
+	Date: 2020-09-28 ; Times: 3
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 1
+	Date: 2020-09-19 ; Times: 1
+	Date: 2020-09-09 ; Times: 5
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-02 ; Times: 14
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereus genus:Sorex county:&#34;hocking&#34; institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sorex county:&#34;jefferson&#34; institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:gapperi genus:Myodes stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sorex stateprovince:&#34;west virginia&#34; institutioncode:OSUM" ; Times: 1
+	Query: "scientificname:Peromyscus melanotis" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis haslifestage:1 hassex:1" ; Times: 2
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 cetacea" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5" ; Times: 4
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 otariidae" ; Times: 2
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 2
+	Query: "scientificname:Lagothrix lagotricha" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sorex institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sorex county:&#34;portage&#34; stateprovince:&#34;ohio&#34; institutioncode:OSUM" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "specificepithet:sodalis genus:Myotis stateprovince:&#34;Kentucky&#34; haslifestage:1" ; Times: 2
+	Query: "specificepithet:cinereus genus:Sorex county:&#34;erie&#34; stateprovince:&#34;ohio&#34; institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:sodalis genus:Myotis stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis haslifestage:1" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus haslifestage:1" ; Times: 4
+	Query: "scientificname:Liomys texensis" ; Times: 1
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "specificepithet:rubra genus:Varecia" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sorex county:&#34;vinton&#34; institutioncode:OSUM" ; Times: 1
+	Query: "vntype:specimen order:Chiroptera institutioncode:OSUM" ; Times: 4
+	Query: "specificepithet:cinereus genus:Sorex county:&#34;scioto&#34; institutioncode:OSUM" ; Times: 1
+	Query: "scientificname:Peromyscus difficilis" ; Times: 1
+	Query: "scientificname:Liomys irroratus" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sorex county:&#34;belmont&#34; institutioncode:OSUM" ; Times: 2
+	Query: "Microtus richardsoni institutioncode:OSUM" ; Times: 2
+	Query: "specificepithet:sodalis genus:Myotis haslifestage:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sorex county:&#34;trumbull&#34; stateprovince:&#34;ohio&#34; institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sorex county:&#34;lawrence&#34; institutioncode:OSUM" ; Times: 1
+	Query: "scientificname:Peromyscus felipensis" ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "recordedby:Stansbury" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sorex county:&#34;ashtabula&#34; stateprovince:&#34;ohio&#34; institutioncode:OSUM" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sorex county:&#34;ashland&#34; stateprovince:&#34;ohio&#34; institutioncode:OSUM" ; Times: 1
+	Query: "scientificname:Peromyscus pectoralis" ; Times: 1
+	Query: "specificepithet:magister genus:Neotoma stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "scientificname:Nasua narica" ; Times: 1
+	Query: "vntype:specimen family:Pteropodidae order:Chiroptera institutioncode:OSUM" ; Times: 1
+	Query: "gbifdatasetid:78dcfcbd-03c4-4d47-8618-830aac6f2ee5 carnivora" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus family:Ursidae haslifestage:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 976 download events in this period)
+Total number of records downloaded: 1047
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-24 ; Times: 6
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-29 ; Times: 6
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-18 ; Times: 3
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-09 ; Times: 9
+	Date: 2020-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lepus americanus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 2
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus haslifestage:1" ; Times: 3
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes" ; Times: 2
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "marmosa mexicana" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "chironectes minimus" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "specificepithet:cristata genus:Condylura" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+
+
+End of report.
