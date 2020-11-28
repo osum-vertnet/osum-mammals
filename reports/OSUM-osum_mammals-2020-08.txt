@@ -1,0 +1,94 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 407
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: United Kingdom ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-12 ; Times: 4
+	Date: 2020-08-09 ; Times: 3
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-31 ; Times: 2
+	Date: 2020-08-19 ; Times: 2
+	Date: 2020-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:magister genus:Neotoma" ; Times: 2
+	Query: "bantam" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sorex institutioncode:OSUM" ; Times: 4
+	Query: "specificepithet:latrans genus:canis preparations:skin institutioncode:OSUM" ; Times: 1
+	Query: "Sciurus granatensis" ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 1
+	Query: "OSUM 559" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx preparations:skin institutioncode:OSUM" ; Times: 1
+	Query: "order:Artiodactyla institutioncode:OSUM" ; Times: 1
+	Query: "OSUM-R 559" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 1
+	Query: "order:Cetacea institutioncode:OSUM" ; Times: 2
+	Query: "specificepithet:tigris genus:Panthera" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:maniculatus genus:Peromyscus year &gt;= 1900 year &lt;= 2020" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 756 download events in this period)
+Total number of records downloaded: 1377
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-08 ; Times: 6
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 4
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-26 ; Times: 11
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:maniculatus genus:Peromyscus year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus haslifestage:1" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera" ; Times: 2
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:cinereus genus:sorex" ; Times: 2
+	Query: "Canis sp" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "myotis leibii" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:austroriparius genus:myotis" ; Times: 2
+	Query: "fossa" ; Times: 1
+
+
+End of report.
