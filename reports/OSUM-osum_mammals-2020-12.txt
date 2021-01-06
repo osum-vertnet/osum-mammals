@@ -1,0 +1,94 @@
+Report for Institution Code OSUM, Resource osum_mammals
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 306
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: United Kingdom ; Times: 1
+	Country: Mozambique ; Times: 1
+	Country: Spain ; Times: 12
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-23 ; Times: 2
+	Date: 2020-12-09 ; Times: 12
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-14 ; Times: 13
+	Date: 2020-12-02 ; Times: 13
+	Date: 2020-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Panthera pardus" ; Times: 1
+	Query: "catalognumber:3177 institutioncode:OSUM" ; Times: 1
+	Query: "scientificname:Zapus hudsonius stateprovince:new york" ; Times: 2
+	Query: "scientificname:Glaucomys volans stateprovince:new york" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "scientificname:Peromyscus leucopus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Synaptomys cooperi stateprovince:new york" ; Times: 3
+	Query: "scientificname:Tamias striatus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Tamiasciurus hudsonicus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "scientificname:Sorex fumeus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Microtus pennsylvanicus stateprovince:new york" ; Times: 2
+	Query: "pika" ; Times: 1
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 2
+	Query: "scientificname:Procyon lotor" ; Times: 12
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "scientificname:Sylvilagus floridanus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Peromyscus maniculatus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Mustela erminea stateprovince:new york" ; Times: 2
+	Query: "204415" ; Times: 1
+	Query: "204414" ; Times: 2
+	Query: "specificepithet:minimus genus:tamias institutioncode:OSUM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 705 download events in this period)
+Total number of records downloaded: 1598
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 9
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-29 ; Times: 2
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-03 ; Times: 4
+	Date: 2020-12-02 ; Times: 3
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "class:Mammalia country:Brazil" ; Times: 2
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "didelphidae hasmass:1 haslength:1 -didelphis" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "genus:Lepus" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:OSUM" ; Times: 1
+
+
+End of report.
